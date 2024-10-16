@@ -1,6 +1,6 @@
 # PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY AY 23-24
 <h3>AIM:To perform Matrix addition with unified memory and check its performance with nvprof.</h3>
-<h3>ENTER YOUR NAME: D.B.V. SWATHIKA G</h3>
+<h3>ENTER YOUR NAME: SWATHIKA G</h3>
 <h3>ENTER YOUR REGISTER NO : 212221230113</h3>
 <h3>EX. NO : 04</h3>
 <h3>DATE: 08-10-2024</h3>
